@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This is a header
-=======
-Footer
->>>>>>> feature/footer
+# This Branch contains Header and Footer
